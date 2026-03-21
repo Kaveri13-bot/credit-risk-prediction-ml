@@ -82,19 +82,30 @@ The results indicate that the XGBoost model performs well in identifying high-ri
 
 # Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 SQL (for data analysis)
 
 # Project Workflow
 Data Collection
+
 Data Cleaning and Preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Feature Engineering
+
 Model Training
+
 Model Evaluation
+
 Prediction
 
 
